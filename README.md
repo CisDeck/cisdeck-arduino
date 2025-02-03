@@ -1,6 +1,6 @@
 # cisdeck-arduino
 
-## C++ Code for Arduino Nano Cisdeck
+C++ Code for Arduino Nano Cisdeck
 
 ## Do you want to build your own Cisdeck?
 
